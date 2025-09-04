@@ -3,9 +3,9 @@ Hi! I'm a developer who thrives on turning creative ideas into working code. My 
 
 # 💻 Tech Stack:
 
-<table>
+<table style="border: none;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 ### **Frontend Development**
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite&perline=4)](https://skillicons.dev)
@@ -17,10 +17,12 @@ Hi! I'm a developer who thrives on turning creative ideas into working code. My 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,vercel&perline=4)](https://skillicons.dev)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 ### **Mobile Development**
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter&perline=4)](https://skillicons.dev)
+
+<br>
 
 ### **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,dynamodb,mongodb&perline=4)](https://skillicons.dev)
