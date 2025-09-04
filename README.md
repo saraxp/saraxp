@@ -13,8 +13,6 @@ Hi! I'm a developer who thrives on turning creative ideas into working code. <br
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
 ### **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,dynamodb,mongodb)](https://skillicons.dev)
-### **Data Science & Analytics**
-[![My Skills](https://skillicons.dev/icons?i=powerbi,numpy,matplotlib,sklearn,)](https://skillicons.dev)
 ### **Tools & Version Control**
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm,pnpm,figma)](https://skillicons.dev)
 
