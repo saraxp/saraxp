@@ -1,8 +1,6 @@
 # 🤗 About Me:
 Hi! I'm a developer who thrives on turning creative ideas into working code. My sweet spot is frontend development, where I get to transform ideas into functional applications, while I'm actively building full-stack skills. I'm expanding into areas like cloud computing, cybersecurity and data science.
 
-<br>
-
 # 💻 Tech Stack:
 
 ### **Frontend Development**
